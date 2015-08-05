@@ -13,3 +13,5 @@ while i <= 4000000
 end
 
 puts total
+
+#Answer = 4613732
